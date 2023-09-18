@@ -1,0 +1,56 @@
+.nav-link {
+    color: white;
+}
+
+body {
+    height: 100vh;
+    background-color: #0C0E11;
+}
+
+.btn {
+    color: white;
+    text-decoration: none;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.sign-up {
+    border-radius: 64px;
+    border: 1px solid #7B7D81;
+    background: #1E202B;
+    padding: 16px 32px;
+}
+
+#organizations img {
+    opacity: 0.5;
+}
+
+#organizations {
+    text-align: center;
+}
+
+#organizations p {
+    color: #FFF;
+    font-family: DM Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.display-1 {
+    /* background: -webkit-linear-gradient(to right, #EBA6C3, #EAB1A1, #D16E83); */
+    background: linear-gradient(82deg, #EBA6C3 -21.25%, #EAB1A1 50.74%, #D16E83 130.99%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 900;
+    font-size: 96px;
+}
+
+.display-6 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+}
