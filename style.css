@@ -22,8 +22,11 @@ body {
     padding: 16px 32px;
 }
 
-#organizations img {
+##organizations img {
     opacity: 0.5;
+}
+#organizations img:hover {
+    opacity: 100%;
 }
 
 #organizations {
@@ -37,6 +40,7 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    padding: 10px;
 }
 
 .display-1 {
